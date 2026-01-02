@@ -1,2 +1,2 @@
 # FIRST
-it is the demo project of using r language
+it is the demo one
